@@ -1,0 +1,24 @@
+{
+  "chart_params": {
+    "font_family": "Times New Roma",
+    "colors": ["r","b","y","g"],
+    "marks": ["*","o","x","s"],
+    "mark_size": 1,
+    "line_width": 1,
+    "x_label": "x",
+    "y_label": "y",
+    "x_ticks": ["1","2","3","4","5"],
+    "y_ticks": [],
+    "x_lim": "(0,10)",
+    "y_lim": "(0,10)",
+    "font_size": 20,
+    "useafm": 0
+  },
+  "frame_params": {
+    "use_frame": 0,
+    "use_grid": 0,
+    "loc": "(0,0)",
+    "save_type": "png",
+    "fig_size": "(10,6)"
+  }
+}
